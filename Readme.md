@@ -51,5 +51,8 @@ Welcome to my GitHub playground! I'm Himanshu, I'm a passionate Android develope
  <a>
     <img src="https://img.shields.io/badge/Javascript-f7b731?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>&nbsp;&nbsp;
+   <a>
+    <img src="https://img.shields.io/badge/Android%20Studio-20bf6b?style=for-the-badge&logo=android&logoColor=white" />
+  </a>&nbsp;&nbsp;
    
  </p>
