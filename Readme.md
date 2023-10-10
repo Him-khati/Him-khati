@@ -8,4 +8,18 @@ Welcome to my GitHub playground! I'm a passionate Android developer dedicated to
 - beside development I ❤ trekking, cycling, exploring world on my motorcycle and Counter strike
 
 ## My Socials
-<a href="https://stackoverflow.com/users/8224232/m3g4tr0n" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Himanshu%20Khati-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://www.linkedin.com/in/him-khati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Khati-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
+
+<p align="start">
+ <a href="[https://twitter.com/_victorkabata](https://twitter.com/HimKhati)">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/him-khati/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://stackoverflow.com/users/8224232/m3g4tr0n">
+    <img src="https://img.shields.io/badge/StackOverflow-ef8236?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/him.khati/">
+    <img src="https://img.shields.io/badge/Instagram-ff6b81?&style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
