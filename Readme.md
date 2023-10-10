@@ -5,7 +5,8 @@ Welcome to my GitHub playground! I'm a passionate Android developer dedicated to
 - Android dev for 6+ Years
 - Currently working @ gigforce
 - Currently exploring Flutter, iOs developement, Kotlin Multiplatform
-- beside development I ❤ trekking, cycling, exploring world on my motorcycle and Counter strike
+- Other area of interest - Continuous deployment within mobile apps, Automated testing.
+- Beside development I ❤ trekking, cycling, exploring world on my motorcycle and Counter strike.
 
 ## My Socials
 
