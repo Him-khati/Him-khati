@@ -10,7 +10,11 @@ Welcome to my GitHub playground! I'm Himanshu, I'm a passionate Android develope
 
 ## My Socials
 
+
 <p align="start">
+  <a href="https://himanshu-khati.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-himanshu--khati.netlify.app-e74c3c?style=for-the-badge&logo=Hexo&logoColor=white" />
+  </a>&nbsp;&nbsp;
  <a href="https://twitter.com/HimKhati">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -24,7 +28,7 @@ Welcome to my GitHub playground! I'm Himanshu, I'm a passionate Android develope
     <img src="https://img.shields.io/badge/Instagram-ff6b81?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="mailto:him.khati@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me%20:%20him.khati@gmail.com-ff4d4d?&style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-him.khati@gmail.com-ff4d4d?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 
  ## Tools and Technologies I am using
