@@ -1,12 +1,12 @@
 # Hey there! 👋
-Welcome to my GitHub playground! I'm Himanshu, I'm a passionate Android developer dedicated to building cutting-edge mobile apps that users love
+Welcome to my GitHub playground! I'm Himanshu, I'm a passionate Android & Flutter developer dedicated to building cutting-edge mobile apps that users love
 
 ## About me
-- Android dev for 6+ Years
-- Currently working @ gigforce
-- Currently exploring Flutter, iOs developement, Kotlin Multiplatform
-- Other area of interest - Continuous deployment within mobile apps, Automated testing.
-- Beside development I ❤ trekking, cycling, exploring world on my motorcycle and Counter strike.
+- Android & Flutter dev for 6+ Years
+- Currently working @ Gigforce
+- Currently exploring Flutter, iOS development, Kotlin Multiplatform
+- Other areas of interest - Continuous deployment within mobile apps, Automated testing, Game development using Flutter-Flame
+- Besides development I ❤ trekking, cycling, exploring the world on my motorcycle and Counter-strike.
 
 ## My Socials
 
